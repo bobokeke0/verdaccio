@@ -1,5 +1,11 @@
 # @verdaccio/config
 
+## 6.0.0-6-next.14
+
+### Minor Changes
+
+- d08fe29d: feat(web): add a config item to web，let the developer can select whet……her enable the html cache
+
 ## 6.0.0-6-next.13
 
 ### Major Changes
